@@ -8,7 +8,7 @@ This is repository for practicing C Programs on Cryptography and Network Securit
 
 ----------
 
-Running Python Programs
+Running C Programs on Linux Command Line
 
     $ gcc program-name.c -o program-name -lm
     $ ./program-name
